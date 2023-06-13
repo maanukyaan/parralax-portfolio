@@ -120,4 +120,10 @@ body {
   color: #fff;
   outline: none;
   font-size: calc(var(--index) * 0.7);
+  transition: all 0.3s ease;
+}
+.hero-content button:hover {
+  background: #fff;
+  color: #000;
+  font-size: calc(var(--index) * 0.6);
 }/*# sourceMappingURL=main.css.map */
